@@ -3,22 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15dfe35a-210d-4e36-a41b-42c0623ed12e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/CreateNewGuestAccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/CreateNewGuestAccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/GuestHome.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/GuestHome.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/GuestHomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/GuestHomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/GuestServicesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/GuestServicesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/MangerHomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/MangerHomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/createNewGuestAccount.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/createNewGuestAccount.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/guestServices.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/guestServices.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/mangerHome.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/mangerHome.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/resources/BeachPalmsDarkenedBlurred.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/resources/BeachPalmsDarkenedBlurred.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/resources/Logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/resources/Logo.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/resources/back_button.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/resources/back_button.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/resources/backgroungd_img .jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/resources/backgroungd_img .jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resortoperation/sample.fxml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,14 +41,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1119461697">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/resortoperation/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,9 +126,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,6 +139,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,28 +184,25 @@
       <option name="presentableId" value="Default" />
       <updated>1540456966872</updated>
       <workItem from="1540456968279" duration="1387000" />
+      <workItem from="1541632318240" duration="506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1387000" />
+    <option name="totallyTimeSpent" value="1893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="29" width="1675" height="1004" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498469" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25290877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32894737" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
@@ -220,15 +210,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,20 +240,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/resortoperation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/resortoperation/GuestHomeController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="29" column="69" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resortoperation/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
